@@ -1,0 +1,10 @@
+Package: QuantumPhaseEstimation
+Type: Package
+Title: Quantum Phase Estimation
+Version: 0.1.0
+Author: Marco A. Rodriguez
+Maintainer: The package maintainer <aeropolis.piece@gmail.com>
+Description: A set of useful functions for the simulation of the phase estimation in qubits 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
