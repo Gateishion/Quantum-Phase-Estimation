@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1606967043261.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4070223712",
+    "id" : "A1C69D86",
+    "lastKnownWriteTime" : 1606967491,
+    "last_content_update" : 1606967491645,
+    "path" : "~/Documentos/Phd/My R-Packages/QuantumPhaseEstimation/man/ECI_Hvar.Rd",
+    "project_path" : "man/ECI_Hvar.Rd",
+    "properties" : {
+        "cursorPosition" : "37,53",
+        "scrollLine" : "13"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

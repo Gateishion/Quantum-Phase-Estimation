@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1606959911337.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4104266275",
+    "id" : "8DB57715",
+    "lastKnownWriteTime" : 1606965999,
+    "last_content_update" : 1606965999168,
+    "path" : "~/Documentos/Phd/My R-Packages/QuantumPhaseEstimation/R/functions.R",
+    "project_path" : "R/functions.R",
+    "properties" : {
+        "cursorPosition" : "862,0",
+        "scrollLine" : "847"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

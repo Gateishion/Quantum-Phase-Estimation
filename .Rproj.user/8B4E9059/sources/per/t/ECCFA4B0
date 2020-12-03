@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1606967512094.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4183832890",
+    "id" : "ECCFA4B0",
+    "lastKnownWriteTime" : 1606967833,
+    "last_content_update" : 1606967833209,
+    "path" : "~/Documentos/Phd/My R-Packages/QuantumPhaseEstimation/man/Hvar_Scheme.Rd",
+    "project_path" : "man/Hvar_Scheme.Rd",
+    "properties" : {
+        "cursorPosition" : "80,1",
+        "scrollLine" : "52"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
